@@ -3,6 +3,7 @@ package org.thelangschool.LinkedList;
 class ListNode{
     String data;
     ListNode next;
+    int index;
 
     public ListNode(String data){
         this.data = data;

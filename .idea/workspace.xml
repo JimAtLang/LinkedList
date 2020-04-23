@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1562db1-5cfe-4e6d-bf28-6fb4ea053905" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/org/thelangschool/LinkedList/ListNode.java" afterPath="$PROJECT_DIR$/src/org/thelangschool/LinkedList/ListNode.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +31,24 @@
       <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/thelangschool/LinkedList/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="225">
               <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+=======
+            <state relative-caret-position="75">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+>>>>>>> Stashed changes
               <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/org/thelangschool/LinkedList/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/org/thelangschool/LinkedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/thelangschool/LinkedList/ListNode.java" />
       </list>
     </option>
   </component>
@@ -190,12 +197,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578584307003</updated>
-      <workItem from="1578584308185" duration="238000" />
+      <workItem from="1578584308185" duration="617000" />
+      <workItem from="1580244060470" duration="321000" />
+      <workItem from="1587668231803" duration="94000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="269000" />
+=======
+    <option name="totallyTimeSpent" value="1032000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="78" width="1375" height="800" extended-state="0" />
@@ -268,16 +281,16 @@
         <state relative-caret-position="225">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -286,6 +299,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+<<<<<<< Updated upstream
           <folding>
             <element signature="e#305#306#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
@@ -316,6 +330,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+=======
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#305#306#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
@@ -325,6 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/thelangschool/LinkedList/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="225">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
@@ -338,6 +355,21 @@
             <element signature="e#353#354#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
+=======
+        <state relative-caret-position="75">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
